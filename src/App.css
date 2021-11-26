@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+#mad18 {
+  float: left;
+  width: 31.5%;
+  padding: 10px;
+  margin: 10px;
+  background-color: rgb(156, 173, 173);
+}
+
+
+img {
+  width: 350px;
+  height: 350px;
+}
+
+p {
+  text-transform: capitalize;
+}
+
+h3 {
+  text-transform: capitalize;
+}
